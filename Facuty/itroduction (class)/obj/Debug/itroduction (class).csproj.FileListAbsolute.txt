@@ -1,0 +1,6 @@
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Object Oriented Programming\Facuty\itroduction (class)\bin\Debug\itroduction (class).exe.config
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Object Oriented Programming\Facuty\itroduction (class)\bin\Debug\itroduction (class).exe
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Object Oriented Programming\Facuty\itroduction (class)\bin\Debug\itroduction (class).pdb
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Object Oriented Programming\Facuty\itroduction (class)\obj\Debug\itroduction (class).csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Object Oriented Programming\Facuty\itroduction (class)\obj\Debug\itroduction (class).exe
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Object Oriented Programming\Facuty\itroduction (class)\obj\Debug\itroduction (class).pdb

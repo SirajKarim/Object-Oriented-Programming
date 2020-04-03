@@ -1,0 +1,10 @@
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Object Oriented Programming\Facuty\Login\bin\Debug\Login.exe.config
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Object Oriented Programming\Facuty\Login\bin\Debug\Login.exe
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Object Oriented Programming\Facuty\Login\bin\Debug\Login.pdb
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Object Oriented Programming\Facuty\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Object Oriented Programming\Facuty\Login\obj\Debug\Login.Form1.resources
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Object Oriented Programming\Facuty\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Object Oriented Programming\Facuty\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Object Oriented Programming\Facuty\Login\obj\Debug\Login.exe
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Object Oriented Programming\Facuty\Login\obj\Debug\Login.pdb
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Object Oriented Programming\Facuty\Login\obj\Debug\Login.Form2.resources

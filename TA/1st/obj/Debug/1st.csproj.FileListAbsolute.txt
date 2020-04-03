@@ -1,0 +1,6 @@
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Object Oriented Programming\TA\1st\bin\Debug\1st.exe.config
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Object Oriented Programming\TA\1st\bin\Debug\1st.exe
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Object Oriented Programming\TA\1st\bin\Debug\1st.pdb
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Object Oriented Programming\TA\1st\obj\Debug\1st.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Object Oriented Programming\TA\1st\obj\Debug\1st.exe
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Object Oriented Programming\TA\1st\obj\Debug\1st.pdb

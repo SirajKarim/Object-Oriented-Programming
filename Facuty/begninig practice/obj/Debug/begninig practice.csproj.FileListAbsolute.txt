@@ -1,0 +1,6 @@
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Object Oriented Programming\Facuty\begninig practice\bin\Debug\begninig practice.exe.config
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Object Oriented Programming\Facuty\begninig practice\bin\Debug\begninig practice.exe
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Object Oriented Programming\Facuty\begninig practice\bin\Debug\begninig practice.pdb
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Object Oriented Programming\Facuty\begninig practice\obj\Debug\begninig practice.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Object Oriented Programming\Facuty\begninig practice\obj\Debug\begninig practice.exe
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Object Oriented Programming\Facuty\begninig practice\obj\Debug\begninig practice.pdb

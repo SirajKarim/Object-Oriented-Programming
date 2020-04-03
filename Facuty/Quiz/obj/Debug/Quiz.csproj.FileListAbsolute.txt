@@ -1,0 +1,6 @@
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Object Oriented Programming\Facuty\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Object Oriented Programming\Facuty\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Object Oriented Programming\Facuty\Quiz\bin\Debug\Quiz.exe
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Object Oriented Programming\Facuty\Quiz\bin\Debug\Quiz.pdb
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Object Oriented Programming\Facuty\Quiz\obj\Debug\Quiz.exe
+C:\Users\Muhammad Siraj\Documents\Visual Studio 2012\Object Oriented Programming\Facuty\Quiz\obj\Debug\Quiz.pdb
